@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+---
+title: The International Civil Service Effectiveness (InCiSE) project
+layout: page
+---
+The International Civil Service Effectiveness (InCiSE) Index draws together a wealth of existing data to help countries determine how their central civil services are performing and learn from each other. It has been published by the [Blavatnik School of Government](https://www.bsg.ox.ac.uk/about/partnerships/international-civil-service-effectiveness-index-2019#) and the [Institute for Government](https://instituteforgovernment.org.uk).
 
-You can use the [editor on GitHub](https://github.com/incise-project/incise-project.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This GitHub site and repositories provide open source access to the InCiSE materials and code. In due course it will provide:
+* an interactive dashboard for exploring the InCiSE results
+* the R package of the underlying InCiSE model
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About InCiSE
+The InCiSE project is a collaboration between the Blavatnik School of Government and the Institute for Government. It is supported by the UK Civil Service and has been funded by the Open Society Foundations.
 
-### Markdown
+The Index is focused on the central government civil service, not the public service more generally. It does not aim to be definitive and it is not possible to directly compare scores between the 2017 and 2019 results.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The InCiSE index has been designed on a framework developed in discussion with officials from national governments, international organisations, civil society partners and academics. This framework defines 17 functions and attributes that contribute to civil service effectiveness - at present, due to data availability, only 12 have been included in the index. These functions and attributes, collectively called indicators, are then disaggregated into individual metrics.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/incise-project/incise-project.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
