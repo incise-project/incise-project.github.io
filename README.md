@@ -1,7 +1,7 @@
 ---
 title: The International Civil Service Effectiveness (InCiSE) project
-layout: page
 ---
+
 The International Civil Service Effectiveness (InCiSE) Index draws together a wealth of existing data to help countries determine how their central civil services are performing and learn from each other. It has been published by the [Blavatnik School of Government](https://www.bsg.ox.ac.uk/about/partnerships/international-civil-service-effectiveness-index-2019#) and the [Institute for Government](https://instituteforgovernment.org.uk).
 
 This GitHub site and repositories provide open source access to the InCiSE materials and code. In due course it will provide:
