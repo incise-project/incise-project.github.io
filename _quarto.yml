@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "The International Civil Service Effectiveness Project"
+  navbar:
+    title: "The InCiSE Project"
+    logo: figures/incise_wordmark_white.png
+    background: dark
+    logo-alt: "InCiSE project logo"
+    right:
+      - text: "InCiSE 2024"
+        href: incise2024.qmd
+      - text: "2019 Reports"
+        menu:
+          - text: "Read the InCiSE 2019 Results Report"
+            icon: book-half
+            href: https://incise-project.github.io/incise2019-results/
+          - text: "Read the InCiSE 2019 Technical Report"
+            icon: book-half
+            href: https://incise-project.github.io/incise2019-techreport/
+  page-footer:
+    left: "Copyright Blavatnik School of Government"
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    anchor-sections: false

@@ -1,0 +1,56 @@
+---
+format: html
+---
+
+:::{.site-title-block}
+:::{.column-screen .site-title}
+:::{.column-body-outset}
+# THE INTERNATIONAL CIVIL SERVICE EFFECTIVENESS (InCiSE) PROJECT
+:::
+:::
+```{=html}
+<div class="column-body-outset logo-box">
+<div class="incise-logo">
+<img src="figures/incise_wordmark_white.png" alt="Logo of the InCiSE project">
+</div>
+<div class="bsg-logo">
+<a href="http://bsg.ox.ac.uk">
+<img src="figures/bsg-logo.svg" alt="The Blavatnik School of Government, University of Oxford">
+</a>
+</div>
+</div>
+```
+:::
+
+The International Civil Service Effectiveness (InCiSE) project is a
+benchmarking and peer learning project based at the
+[Blavatnik School of Government](http://bsg.ox.ac.uk).
+
+:::{.grid}
+:::{.g-col-6}
+## InCiSE in 2024 and beyond
+Building on the foundations created by the 2017 and 2019 editions
+of the InCiSE Index, the School is re-establishing the project and aims to
+release a new edition of the Index in 2024. Alongside a new edition of the
+Index we will also be consulting stakeholders to review the conceptual
+framework behind the Index to ensure it is fit for the future. [Read more](incise2024.qmd).
+:::
+:::{.g-col-6}
+## The InCiSE 2019 results
+To support stakeholder engagement we have republished the reports from the
+2019 edition of the InCiSE Index as interactive web books.
+```{=html}
+<div class="card-reports">
+<div class="2019-report-results">
+<img src="figures/incise2019_results_cover.png" alt="Cover of the InCiSE 2019 Results Report">
+<p><a href="https://incise-project.github.io/incise2019-results/">Read the InCiSE 2019 Results report.</a></p>
+</a>
+</div>
+<div class="2019-report-technical">
+<img src="figures/incise2019_techreport_cover.png" alt="Cover of the InCiSE 2019 Technical Report">
+<p><a href="https://incise-project.github.io/incise2019-techreport/">Read the InCiSE 2019 Technical report.</a></p>
+</div>
+</div>
+```
+:::
+:::

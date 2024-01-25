@@ -1,0 +1,84 @@
+---
+title: "InCiSE in 2024 and beyond"
+title-block-banner: true
+format: html
+---
+
+The International Civil Service Effectiveness (InCiSE) project was first
+established in 2016 and produced two editions of the InCiSE Index in 2017
+and 2019 ([read more](#history)). The Covid-19 pandemic presented challenges
+to civil services around the world that had not been faced in decades.
+Emerging from the pandemic, civil services are grapling with a range of complex
+issues, including climate change and the rise of artificial intelligence, and
+in many countries governments are reviewing their approach to running and
+reforming their civil service.
+
+To help senior officials, those leading reform efforts and those who hold
+civil service leaders to account, the Blavatnik School of Government is
+re-establishing the InCiSE project to support efforts to benchmark the
+effectiveness of civil services and enable a data-driven approach to peer
+learning.
+
+Alongside a new edition of the InCiSE Index through 2024 we will be consulting
+stakeholders to review the InCiSE framework and develop a longer-term vision
+for the future of the project.
+
+## A new edition of the InCiSE Index
+
+Building on the approach of the 2019 edition of the InCiSE Index we are
+aiming to publish a new edition of the Index in 2024 with interactive data
+visualisation tools so users can explore in-depth the data about the civil
+service in their country and peers.
+
+The 2019 edition of InCiSE covered 38 countries in the OECD and EU, as part of
+our efforts to develop a new edition of the Index we are actively considering
+how we can expand the coverage and benchmarking to a wider range of countries.
+
+## Reviewing the InCiSE framework
+
+The theoretical framework behind the InCiSE framework was originally developed
+in 2016 following a literature review and in consultation with many experts,
+including academics from schools of government, think-tanks that monitor
+government effectiveness, international organisations, senior civil
+servants (past and present) and subject matter experts.
+
+The purpose of the framework is to define a common approach for assessing the
+effectiveness of civil services (particularly at the national/federal level).
+The world is a markedly different place in the eight years since the framework
+was first developed including, but not limited to, the Covid-19 pandemic, the
+rise of the Net Zero agenda, and increasing public awareness of the artificial
+intelligence revolution.
+
+Throughout 2024 we will be consulting stakeholders to review and refresh the
+conceptual framework to ensure it remains fit for purpose as a tool for
+comparative analysis of civil service effectiveness.
+
+## Our longer-term vision
+
+Our ambition is to develop InCiSE into a project that is more than just a
+periodic index, and that it becomes a crucial tool for stakeholders to
+better understand how civil services around the world compare to each other.
+Through this ambition, we hope that those involved in civil service reform
+efforts can adopt a more data-driven approach to peer learning.
+
+## History
+
+From 2016 to 2019, the International Civil Service Effectiveness (InCiSE) project
+was a collaboration between the
+[Blavatnik School of Government](https://www.bsg.ox.ac.uk/incise) and the
+[Institute for Government](http://instituteforgovernment.org.uk/). It was
+supported by the UK Civil Service (through technical assistance from the
+[Cabinet Office](https://www.gov.uk/cabinetoffice)) and funded by the
+[Open Society Foundations](https://www.opensocietyfoundations.org/).
+
+The collaboration published a
+[pilot edition](https://www.bsg.ox.ac.uk/about/partnerships/international-civil-service-effectiveness-index-2017)
+of the Index in 2017, in 2019 an [updated edition](https://www.bsg.ox.ac.uk/about/partnerships/international-civil-service-effectiveness-index-2019)
+was published that refined the methodology, increased the number of
+metrics and the range of data sources used.
+
+Alongside the 2019 edition of the Index, two technical papers were
+[published](https://www.bsg.ox.ac.uk/about/partnerships/international-civil-service-effectiveness-index-2019)
+to assess the potential for the InCiSE Index to be used in contexts where data
+availability was more challenging. One paper looked at applicability in Brazil
+and the other in Nigeria.

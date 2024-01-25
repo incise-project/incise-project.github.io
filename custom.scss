@@ -1,0 +1,222 @@
+/*-- font import --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+/*-- Blavatnik corporate font --*/
+@font-face {
+    font-family: "Brandon Text";
+    src: url(https://www.bsg.ox.ac.uk/themes/custom/olamalu_bsg_emulsify/font/bsg/fonts/Brandon-Text-Web-Regular.eot) format("eot"), url(https://www.bsg.ox.ac.uk/themes/custom/olamalu_bsg_emulsify/font/bsg/fonts/Brandon-Text-Web-Regular.woff) format("woff"), url(https://www.bsg.ox.ac.uk/themes/custom/olamalu_bsg_emulsify/font/bsg/fonts/Brandon-Text-Web-Regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Brandon Text";
+    src: url(https://www.bsg.ox.ac.uk/themes/custom/olamalu_bsg_emulsify/font/bsg/fonts/Brandon-Text-Web-Thin.eot) format("eot"), url(https://www.bsg.ox.ac.uk/themes/custom/olamalu_bsg_emulsify/font/bsg/fonts/Brandon-Text-Web-Thin.woff) format("woff"), url(https://www.bsg.ox.ac.uk/themes/custom/olamalu_bsg_emulsify/font/bsg/fonts/Brandon-Text-Web-Thin.woff2) format("woff2");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Brandon Text";
+    src: url(https://www.bsg.ox.ac.uk//themes/custom/olamalu_bsg_emulsify/font/bsg/fonts/Brandon-Text-Web-Light.eot) format("eot"), url(https://www.bsg.ox.ac.uk//themes/custom/olamalu_bsg_emulsify/font/bsg/fonts/Brandon-Text-Web-Light.woff) format("woff"), url(https://www.bsg.ox.ac.uk//themes/custom/olamalu_bsg_emulsify/font/bsg/fonts/Brandon-Text-Web-Light.woff2) format("woff2");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Brandon Text";
+    src: url(https://www.bsg.ox.ac.uk/themes/custom/olamalu_bsg_emulsify/font/bsg/fonts/Brandon-Text-Web-Medium.eot) format("eot"), url(https://www.bsg.ox.ac.uk/themes/custom/olamalu_bsg_emulsify/font/bsg/fonts/Brandon-Text-Web-Medium.woff) format("woff"), url(https://www.bsg.ox.ac.uk/themes/custom/olamalu_bsg_emulsify/font/bsg/fonts/Brandon-Text-Web-Medium.woff2) format("woff2");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Brandon Text";
+    src: url(https://www.bsg.ox.ac.uk/themes/custom/olamalu_bsg_emulsify/font/bsg/fonts/Brandon-Text-Web-Regular-Italic.eot) format("eot"), url(https://www.bsg.ox.ac.uk/themes/custom/olamalu_bsg_emulsify/font/bsg/fonts/Brandon-Text-Web-Regular-Italic.woff) format("woff"), url(https://www.bsg.ox.ac.uk/themes/custom/olamalu_bsg_emulsify/font/bsg/fonts/Brandon-Text-Web-Regular-Italic.woff2) format("woff2");
+    font-weight: normal;
+    font-style: italic;
+}
+
+/*-- scss:defaults --*/
+$bsg-dark-blue:           #002147;
+$bsg-mid-blue:            #00629B;
+$bsg-light-blue:          #41B6E6;
+$bsg-warm-grey6:          #A59C94;
+$bsg-warm-grey1:          #D7D2CB;
+$bsg-beige:               #C6AA76;
+$bsg-orange:              #C4622D;
+$bsg-purple:              #833177;
+$bsg-burgundy:            #76232F;
+$bsg-green:               #719949;
+
+$bsg-bg-beige:            #f7f5f4;
+$bsg-bg-section:          #e5e5e5;
+
+$note-color:              #848484;
+$headings-font-weight:    600 !default;
+$body-color:              #444444 !default;
+$body-bg:                 #ffffff !default;
+
+$headings-font-family:    "Brandon Text", "Open Sans", "Lato", "Helvetica Neue", Helvetica, sans-serif !default;
+$headings-font-style:     null !default;
+$headings-font-weight:    600 !default;
+$headings-line-height:    1.2 !default;
+$headings-color:          $bsg-dark-blue !default;
+
+$font-family-sans-serif:  "Open Sans", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$font-weight-normal:      400 !default;
+
+/*-- scss:rules --*/
+
+h1 {
+  font-weight: 300;
+}
+
+h2, h3, h4 {
+  font-weight: 400;
+}
+
+h2 {
+  border-bottom: 0px;
+}
+
+h4 {
+  margin-top: 0.25rem;
+  margin-bottom: 0.125rem;
+  font-size: calc(var(--bs-body-font-size) * 1.1);
+}
+
+.lead{
+  font-weight: 600;
+}
+
+.site-title-block {
+  min-height: 400px;
+  background-color: $bsg-dark-blue;
+  padding: 10px;
+  background-image: url("figures/world_squares.svg");
+  background-repeat: no-repeat;
+  background-blend-mode: lighten;
+  background-position: center;
+  background-size: 100% auto;
+  margin-bottom: 50px;
+}
+
+.site-title {
+  min-height: 350px;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+}
+
+.site-title h1 {
+  color: #ffffff;
+  font-size: 60px;
+}
+
+.quarto-title-banner {
+  min-height: 200px;
+  display: flex;
+  align-items: center;
+  background-color: $bsg-bg-beige;
+  margin-bottom: 50px;
+  padding: 10px;
+}
+
+.quarto-title h1 {
+  font-size: 60px;
+  font-weight: 300 !important;
+}
+
+main {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
+
+nav.navbar {
+  background-color: $bsg-dark-blue;
+}
+
+nav.navbar {
+  font-family: $headings-font-family;
+  font-weight: 500;
+}
+
+.navbar-title {
+  color: #ffffff;
+}
+
+.navbar-nav {
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+nav.navbar ul.dropdown-menu {
+  background-color: $bsg-dark-blue;
+}
+
+nav.navbar .dropdown-item {
+  color: #ffffff;
+}
+
+nav.navbar .nav-item, nav.navbar .nav-link {
+  color: #ffffff;
+}
+
+.logo-box {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 50px;
+}
+
+.logo-box .incise-logo {
+  flex: 50%;
+  text-align: left;
+}
+
+.logo-box .incise-logo img {
+  max-height: 100px;
+  margin-right: auto;
+}
+
+.logo-box .bsg-logo {
+  flex: 50%;
+  text-align: right;
+}
+
+.logo-box .bsg-logo img {
+  max-height: 100px;
+}
+
+.bg-grey1 {
+  background-color: $bsg-warm-grey1;
+}
+
+.card-reports img {
+  height: 100px;
+}
+
+.card-reports {
+  display: flex;
+  align-items: space-between;
+}
+
+.card-reports div {
+  text-align: center;
+}
+
+.card-reports img {
+  margin: 10px;
+}
+
+a {
+  color: $bsg-dark-blue;
+}
+
+a:hover {
+  color: $bsg-light-blue;
+}
