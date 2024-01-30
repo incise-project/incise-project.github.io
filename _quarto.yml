@@ -6,9 +6,7 @@ website:
   title: "The International Civil Service Effectiveness Project"
   navbar:
     title: "The InCiSE Project"
-    logo: figures/incise_wordmark_white.png
     background: dark
-    logo-alt: "InCiSE project logo"
     right:
       - text: "InCiSE 2024"
         href: incise2024.qmd
