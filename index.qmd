@@ -24,7 +24,7 @@ format: html
 
 The International Civil Service Effectiveness (InCiSE) project is a
 benchmarking and peer learning project based at the
-[Blavatnik School of Government](http://bsg.ox.ac.uk).
+[Blavatnik School of Government](https://www.bsg.ox.ac.uk/incise).
 
 :::{.grid}
 :::{.g-col-6}
