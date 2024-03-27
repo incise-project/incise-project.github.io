@@ -10,10 +10,13 @@ website:
     right:
       - text: "InCiSE 2024"
         href: incise2024.qmd
-      - text: "2019 Reports"
+      - text: "InCiSE 2019"
         menu:
           - text: "Read the InCiSE 2019 Results Report"
             icon: book-half
+            href: https://incise-project.github.io/incise2019-results/
+          - text: "View the InCiSE 2019 Results Dashboard"
+            icon: bar-chart-fill
             href: https://incise-project.github.io/incise2019-results/
           - text: "Read the InCiSE 2019 Technical Report"
             icon: book-half

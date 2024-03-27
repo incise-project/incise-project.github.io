@@ -22,12 +22,14 @@ format: html
 ```
 :::
 
+:::{.column-body-outset}
+
 The International Civil Service Effectiveness (InCiSE) project is a
 benchmarking and peer learning project based at the
 [Blavatnik School of Government](https://www.bsg.ox.ac.uk/incise).
 
 :::{.grid}
-:::{.g-col-6}
+:::{.g-col-12 .g-col-md-4}
 ## InCiSE in 2024 and beyond
 Building on the foundations created by the 2017 and 2019 editions
 of the InCiSE Index, the School is re-establishing the project and aims to
@@ -35,7 +37,7 @@ release a new edition of the Index in 2024. Alongside a new edition of the
 Index we will also be consulting stakeholders to review the conceptual
 framework behind the Index to ensure it is fit for the future. [Read more](incise2024.qmd).
 :::
-:::{.g-col-6}
+:::{.g-col-12 .g-col-md-4}
 ## The InCiSE 2019 results
 To support stakeholder engagement we have republished the reports from the
 2019 edition of the InCiSE Index as interactive web books.
@@ -53,4 +55,16 @@ To support stakeholder engagement we have republished the reports from the
 </div>
 ```
 :::
+:::{.g-col-12 .g-col-md-4}
+## InCiSE 2019 dashboard
+You can view the full results of the 2019 edition of InCiSE Index through
+our [interactive dashboard](https://incise-project.github.io/incise2019-dashboard/).
+
+:::{.linked-img}
+[![](figures/incise-dashboard.png)](https://incise-project.github.io/incise2019-dashboard/)
+:::
+
+:::
+:::
+
 :::
