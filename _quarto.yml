@@ -17,7 +17,7 @@ website:
             href: https://incise-project.github.io/incise2019-results/
           - text: "View the InCiSE 2019 Results Dashboard"
             icon: bar-chart-fill
-            href: https://incise-project.github.io/incise2019-results/
+            href: https://incise-project.github.io/incise2019-dashboard/
           - text: "Read the InCiSE 2019 Technical Report"
             icon: book-half
             href: https://incise-project.github.io/incise2019-techreport/
