@@ -8,10 +8,12 @@ website:
     title: "The InCiSE Project"
     background: dark
     right:
-      - text: "InCiSE 2024"
-        href: incise2024.qmd
-      - text: "InCiSE 2019"
+      - text: "More"
         menu:
+          - text: "Go to the Blavatnik Index of Public Administration"
+            icon: box-arrow-right
+            href: https://index.bsg.ox.ac.uk
+          - text: "---"
           - text: "Read the InCiSE 2019 Results Report"
             icon: book-half
             href: https://incise-project.github.io/incise2019-results/
@@ -33,3 +35,4 @@ format:
       - cosmo
       - custom.scss
     anchor-sections: false
+    include-after-body: banner.html

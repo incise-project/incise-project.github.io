@@ -24,18 +24,21 @@ format: html
 
 :::{.column-body-outset}
 
-The International Civil Service Effectiveness (InCiSE) project is a
-benchmarking and peer learning project based at the
-[Blavatnik School of Government](https://www.bsg.ox.ac.uk/incise).
+From 2016 to 2019, the International Civil Service Effectiveness (InCiSE)
+project was a collaboration between the Blavatnik School of Government and the
+Institute for Government. It was supported by the UK Civil Service (through the
+Cabinet Office) and received funding from the Open Society Foundations.
+
+The InCiSE project has now been archived, this website provides access to the
+InCiSE 2019 reports and results dashboard.
 
 :::{.grid}
 :::{.g-col-12 .g-col-md-4}
-## InCiSE in 2024 and beyond
-Building on the foundations created by the 2017 and 2019 editions
-of the InCiSE Index, the School is re-establishing the project and aims to
-release a new edition of the Index in 2024. Alongside a new edition of the
-Index we will also be consulting stakeholders to review the conceptual
-framework behind the Index to ensure it is fit for the future. [Read more](incise2024.qmd).
+## Blavatnik Index of Public Administration
+The Blavatnik Index of Public Administration is the spiritual successor to the InCiSE project, building on the foundations of the 2017 and 2019 editions of
+the InCiSE Index. The Blavatnik Index was launched in December 2024, using an updated framework it provides comparisons of civil services and public administrations in 120 countries around the world. Visit the
+[Blavatnik Index website](https://index.bsg.ox.ac.uk) to view the results
+and learn more.
 :::
 :::{.g-col-12 .g-col-md-4}
 ## The InCiSE 2019 results

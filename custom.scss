@@ -290,3 +290,31 @@ nav[role=doc-toc] a {
     background-color: none;
   }
 }
+
+
+/*-- bipa banner --*/
+
+div.bipa-banner {
+  background-color: $bsg-orange;
+  font-family: $headings-font-family;
+  font-weight: 400;
+  font-size: 10;
+  color: #fff;
+  border-bottom: 1px solid #fff;
+  padding: 5px;
+}
+
+div.bipa-banner a {
+  color: #fff;
+}
+
+div.bipa-banner p {
+  padding: 0px;
+  margin: 0px;
+}
+
+div.bipa-banner strong {
+  font-weight: 600;
+  color: #fff;
+  text-transform: uppercase;
+}
